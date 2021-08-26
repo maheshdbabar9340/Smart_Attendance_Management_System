@@ -3,3 +3,5 @@ Using this smart system, students image will be captured using camera and it wil
 
 
 Take a view on Face Regonition work also ==> https://github.com/maheshdbabar9340/Face_Detection
+
+https://www.youtube.com/watch?v=sz25xxF_AVE
